@@ -4,4 +4,6 @@ public class Professor {
     public int id;
     public int age;
     public Department department;
+    public Student[] students;
+    public Course[] courses;
 }

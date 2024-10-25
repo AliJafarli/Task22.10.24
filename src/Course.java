@@ -1,4 +1,4 @@
 public class Course {
-    public String name;
+    public String CourseName;
     public Department department;
 }

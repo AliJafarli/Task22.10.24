@@ -5,5 +5,6 @@ public class Student {
     public int age;
     public Professor professor;
     public Department department;
+    public Course[] courses;
 
 }

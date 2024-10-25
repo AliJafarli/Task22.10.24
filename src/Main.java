@@ -43,11 +43,11 @@ public class Main {
         Course[] courses = new Course[2];
 
         Course course = new Course();
-        course.name = "Ethics";
+        course.CourseName = "Ethics";
         course.department = department;
 
         Course course1 = new Course();
-        course1.name = "Social";
+        course1.CourseName = "Social";
         course1.department = department;
 
         courses[0] = course;
