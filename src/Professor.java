@@ -6,4 +6,5 @@ public class Professor {
     public Department department;
     public Student[] students;
     public Course[] courses;
+
 }
